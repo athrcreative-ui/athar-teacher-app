@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-13",
+  "explanation": {
+    "text": "",
+    "audio": null
+  },
+  "summary": {
+    "text": "",
+    "resources": []
+  },
+  "videos": [],
+  "activities": [],
+  "assessments": [],
+  "files": [
+    {
+      "id": "lesson-booklet",
+      "title": "لغة النصر",
+      "url": "https://drive.google.com/file/d/1spvDGGexsWaST8CkuVUYhnK7uWCqMoFV/view?usp=drivesdk",
+      "description": "البوكليت التعليمي الكامل للدرس للمذاكرة والمراجعة والطباعة.",
+      "format": "بوكليت PDF",
+      "action": "open",
+      "kind": "link"
+    }
+  ],
+  "homework": []
+}

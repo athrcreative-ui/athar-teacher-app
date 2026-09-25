@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-06",
+  "explanation": { "text": "يجب أن تفهم: أن المفعول به هو الاسم الذي يقع عليه فِعْل الفاعل، وحالته الإعرابية أنه «منصوب دائمًا».\nركّز على: القاعدة الأساسية للدرس؛ وهي أن المفعول به إذا كان «مفردًا» أو «جمع تكسير» فإن علامة نصبه تكون الفتحة.\nانتبه إلى: ضبط آخر الكلمة في أسئلة الاختيارات؛ فالمفعول به المفرد وجمع التكسير يجب أن ينتهي بفتحة.\nتذكّر: الصيغة الإعرابية الثابتة التي ستكتبها في الامتحان: «مفعول به منصوب، وعلامة نصبه الفتحة».\nيجب أن تستوعب: كيفية استخراج المفعول به من الفقرات، أو تحويل الجمل إلى فعلية مع ضرورة ضبط آخر المفعول به بوضع الفتحة.\nركّز عليها قبل الامتحان:\n• المفعول به دائمًا منصوب، وهو من يقع عليه فعل الفاعل.\n• اتفاق «المفرد» و«جمع التكسير» في أن علامة نصبهما هي الفتحة.\n• في سؤال «اضبط آخر الكلمة» تأكد من وضع الفتحة على الحرف الأخير للمفعول به.", "audio": null },
+  "summary": { "text": "", "resources": [
+    { "id": "lesson-summary-map", "title": "تلخيص وخريطة درس المفعول به المفرد وجمع التكسير", "url": "/assets/lesson-images/6.webp", "format": "صورة WebP", "kind": "image", "alt": "تلخيص وخريطة بصرية لدرس المفعول به المفرد وجمع التكسير" }
+  ] },
+  "videos": [
+    { "id": "lesson-video", "title": "شرح درس المفعول به المفرد وجمع التكسير فيديو", "url": "https://drive.google.com/file/d/1CUNNDPcBKyPFRanrc_dYKRum1hZ60jhl/view?usp=drivesdk", "description": "شرح فيديو لدرس المفعول به المفرد وجمع التكسير - اللغة العربية - الصف الخامس الابتدائي.", "format": "MP4 فيديو", "action": "open", "kind": "link" }
+  ],
+  "activities": [
+    { "id": "gamification-activity", "title": "نشاط تلعيبي: المفعول به المفرد وجمع التكسير", "url": "https://share.gemini.google/t9eGZY1yD2fm", "description": "نشاط تعليمي تفاعلي مرتبط بالدرس للمراجعة والتطبيق بطريقة ممتعة.", "format": "نشاط تلعيبي تفاعلي", "action": "open", "kind": "link" }
+  ],
+  "assessments": [
+    { "id": "lesson-assessment", "title": "تقويم الدرس السادس: المفعول به المفرد وجمع التكسير", "url": "https://share.gemini.google/xmRAYfISB5zB", "description": "اختبر استيعابك للدرس من خلال تقويم تفاعلي سريع.", "format": "تقويم تفاعلي", "action": "open", "kind": "link" }
+  ],
+  "files": [
+    { "id": "booklet-pdf", "title": "بوكليت المفعول به (المفرد وجمع التكسير)", "url": "https://drive.google.com/file/d/1UACTgPUp1ppPk69aqkmMyKa6X0AcInlE/view?usp=drivesdk", "description": "بوكليت التميز التعليمي للمفعول به المفرد وجمع التكسير، متاح للعرض والتحميل من Google Drive.", "format": "بوكليت PDF", "action": "open", "kind": "link" },
+    { "id": "presentation-pdf", "title": "العرض التقديمي: المفعول به المفرد وجمع التكسير", "url": "https://drive.google.com/file/d/1hUpmW4X4TumhDz7ui5v-O3YKO0Btl4FL/view?usp=drivesdk", "description": "عرض تقديمي بصيغة PDF لدرس المفعول به المفرد وجمع التكسير - اللغة العربية - الصف الخامس الابتدائي.", "format": "عرض تقديمي PDF", "action": "open", "kind": "link" }
+  ],
+  "homework": []
+}

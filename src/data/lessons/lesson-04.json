@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-04",
+  "explanation": { "text": "يجب أن تفهم: الفرق الأساسي بين همزة القطع وألف الوصل؛ فهمزة القطع تُنطق دائمًا في بداية الكلام ووسطه، بينما ألف الوصل تُنطق في بداية الكلام وتسقط (لا تُنطق) في وسطه.\nركّز على: طريقة كتابة الهمزتين؛ همزة القطع تُكتب (أ، إ)، بينما ألف الوصل تُكتب ألفًا بلا همزة (ا).\nيجب أن تستوعب: كيفية التفريق بينهما عمليًا؛ ضع حرف «الواو» (و) قبل الكلمة، فإن نطقت الهمزة فهي «قطع» مثل: وأحمد، وإن لم تنطقها فهي «وصل» مثل: واستمع.\nلا تخلط بين: الكلمات التي تبدأ بهمزة قطع مثل: أُسهم، إغلاق، أحمد، أُسامة، والكلمات التي تبدأ بألف وصل مثل: استيقظت، الكتاب، المصري، استمر، استمع.\nتذكّر: أن الهمزة المكتوبة فوق الألف أو تحتها هي دائمًا همزة قطع.\nركّز عليها قبل الامتحان:\n• تطبيق قاعدة إضافة حرف «الواو» للتمييز السريع بين همزة القطع وألف الوصل.\n• استخراج وتصنيف الكلمات المبدوءة بهمزة قطع أو ألف وصل من الفقرات.\n• الانتباه لعدم وضع همزة على «ألف الوصل» في الكتابة الإملائية.", "audio": null },
+  "summary": { "text": "", "resources": [
+    { "id": "lesson-summary-map", "title": "تلخيص وخريطة درس همزة القطع وألف الوصل", "url": "/assets/lesson-images/4.webp", "format": "صورة WebP", "kind": "image", "alt": "تلخيص وخريطة بصرية لدرس همزة القطع وألف الوصل" }
+  ] },
+  "videos": [
+    { "id": "lesson-video", "title": "شرح درس همزة القطع وألف الوصل فيديو", "url": "https://drive.google.com/file/d/1KjmfffniIiD6gEJJj8-4FxXi2BMGXgqs/view?usp=drivesdk", "description": "شرح فيديو لدرس همزة القطع وألف الوصل - اللغة العربية - الصف الخامس الابتدائي.", "format": "MP4 فيديو", "action": "open", "kind": "link" }
+  ],
+  "activities": [
+    { "id": "gamification-activity", "title": "نشاط تلعيبي: همزة القطع وألف الوصل", "url": "https://share.gemini.google/Zcnqfr7QMusN", "description": "نشاط تعليمي تفاعلي مرتبط بالدرس للمراجعة والتطبيق بطريقة ممتعة.", "format": "نشاط تلعيبي تفاعلي", "action": "open", "kind": "link" }
+  ],
+  "assessments": [
+    { "id": "lesson-assessment", "title": "تقويم الدرس الرابع: همزة القطع وألف الوصل", "url": "https://share.gemini.google/rC4t7SvJiPw5", "description": "اختبر استيعابك للدرس من خلال تقويم تفاعلي سريع.", "format": "تقويم تفاعلي", "action": "open", "kind": "link" }
+  ],
+  "files": [
+    { "id": "booklet-pdf", "title": "بوكليت إتقان همزة القطع وألف الوصل", "url": "https://drive.google.com/file/d/1jhI58IwraCV2YwAgP0ztgSYJFrD4UCfA/view?usp=drivesdk", "description": "دليل الطالب المحترف لإتقان همزة القطع وألف الوصل، متاح للعرض والتحميل من Google Drive.", "format": "بوكليت PDF", "action": "open", "kind": "link" },
+    { "id": "presentation-pdf", "title": "العرض التقديمي: همزة القطع وألف الوصل", "url": "https://drive.google.com/file/d/1L3ouxTR8Bk_yhyXFyQFDFOkzXO28lBVC/view?usp=drivesdk", "description": "عرض تقديمي بصيغة PDF لدرس همزة القطع وألف الوصل - اللغة العربية - الصف الخامس الابتدائي.", "format": "عرض تقديمي PDF", "action": "open", "kind": "link" }
+  ],
+  "homework": []
+}

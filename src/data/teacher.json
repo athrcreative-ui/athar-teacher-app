@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "appName": "مساحتي التعليمية",
+  "name": "محمد سيف الدين",
+  "brandName": "أثر للتدريب الإبداعي",
+  "professionalTitle": "استشاري في التدريب والتدريس الإبداعي، ومؤسس شركة أثر للتدريب الإبداعي",
+  "bio": "يساعد المدربين والمعلمين والمؤسسات على تحويل المحتوى والخبرة إلى تجارب تعلم إبداعية مؤثرة، مع توظيف الذكاء الاصطناعي بوعي ودون فقدان البصمة الإنسانية.",
+  "tagline": "نبتكر لنترك أثرًا",
+  "language": "ar",
+  "direction": "rtl",
+  "photo": {
+    "src": "/assets/brand/teacher-photo.webp",
+    "alt": "صورة محمد سيف الدين"
+  },
+  "logo": {
+    "src": "/assets/brand/athar-logo.png",
+    "alt": "شعار أثر للتدريب الإبداعي"
+  },
+  "theme": {
+    "primary": "#F58220",
+    "primaryContrast": "#18120D",
+    "accent": "#3F7F2A",
+    "background": "#F8F6F1",
+    "surface": "#FFFFFF",
+    "text": "#111111",
+    "mutedText": "#5F625E",
+    "border": "#DED9CF",
+    "focus": "#0B2D5C",
+    "secondary": "#0B2D5C",
+    "creativeAccent": "#3B1D5A",
+    "warmSurface": "#F7E8C8",
+    "fontFamily": "'IBM Plex Sans Arabic', 'Segoe UI', Tahoma, Arial, sans-serif"
+  },
+  "contacts": [
+    {
+      "id": "email",
+      "label": "البريد الإلكتروني",
+      "url": "mailto:mohamed.saifelddine@gmail.com"
+    },
+    {
+      "id": "whatsapp",
+      "label": "واتساب",
+      "url": "https://wa.me/201150355447"
+    },
+    {
+      "id": "facebook",
+      "label": "فيسبوك",
+      "url": "https://web.facebook.com/Muhammed.saifelddine"
+    }
+  ],
+  "designPreferences": {
+    "style": "دافئ، تعليمي، إبداعي، منظم، مؤسسي، بخلفيات فاتحة ولمسات تقنية محدودة",
+    "avoid": [
+      "الزحام البصري",
+      "الألوان الفاقعة أو كثرة الألوان في الشاشة الواحدة",
+      "الطابع التقني البارد",
+      "الزخارف غير الوظيفية",
+      "المبالغة في مؤثرات الذكاء الاصطناعي"
+    ]
+  }
+}

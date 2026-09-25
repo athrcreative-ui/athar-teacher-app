@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "lesson-03",
+  "explanation": { "text": "يجب أن تفهم: القاعدة النحوية؛ المفعول به هو الاسم الذي يقع عليه فِعْل الفاعل في الجملة الفعلية، مثل كلمة «المعلّم» في: شكر التلميذُ المعلّمَ.\nركّز على: اعترافات المصري القديم في كتاب «الخروج إلى النهار»، وأبرزها قوله: «لم ألوّث ماء النيل»، وتأكيده على عدم منع جريان الماء أو إعاقة الفيضان.\nلا تخلط بين: ألقاب نهر النيل؛ فهو يُطلق عليه «أبو الأنهار الإفريقية»، وليس الأنهار العربية.\nتذكّر: القاعدة الإملائية للهمزة؛ فالهمزة المكتوبة فوق الألف أو تحتها (أ، إ) تُنطق دائمًا في بداية الكلام وفي وسطه أيضًا.\nانتبه إلى: مفهوم الجذر اللغوي للكلمة، وهو أصل الكلمة الذي نأخذ منه كلمات أخرى، مثل الجذر «كتب» نأخذ منه: يكتب، كاتب، مكتبة.\nيجب أن تستوعب: أن نهر النيل مهدد بالتلوث اليوم، والمحافظة عليه ليست مجرد سلوك، بل هي ضمان لاستمرار الحياة للأجيال القادمة.\nركّز عليها قبل الامتحان:\n• استخراج «المفعول به» من الجملة الفعلية وتحديد موقعه الإعرابي.\n• اسم النص الفرعوني «كتاب الخروج إلى النهار» وتقديس المصريين القدماء واحتفالهم بالنيل.\n• الانتباه للهمزات (أ، إ) في الإملاء ونطقها الدائم في كل مواضع الكلمة.", "audio": null },
+  "summary": { "text": "", "resources": [
+    { "id": "lesson-summary-map", "title": "تلخيص وخريطة درس المفعول به", "url": "/assets/lesson-images/3.webp", "format": "صورة WebP", "kind": "image", "alt": "تلخيص وخريطة بصرية لدرس المفعول به" }
+  ] },
+  "videos": [
+    { "id": "lesson-video", "title": "شرح درس المفعول به فيديو", "url": "https://drive.google.com/file/d/1XjGh6yYNBAriaQgjjTXvzzdJMe5jkExz/view?usp=drivesdk", "description": "شرح فيديو لدرس المفعول به - اللغة العربية - الصف الخامس الابتدائي.", "format": "MP4 فيديو", "action": "open", "kind": "link" }
+  ],
+  "activities": [
+    { "id": "gamification-activity", "title": "نشاط تلعيبي: المفعول به", "url": "https://share.gemini.google/iFJcZnJTmBvI", "description": "نشاط تعليمي تفاعلي مرتبط بالدرس للمراجعة والتطبيق بطريقة ممتعة.", "format": "نشاط تلعيبي تفاعلي", "action": "open", "kind": "link" }
+  ],
+  "assessments": [
+    { "id": "lesson-assessment", "title": "تقويم الدرس الثالث: المفعول به", "url": "https://share.gemini.google/T8T7XMQ2Wmvn", "description": "اختبر استيعابك للدرس من خلال تقويم تفاعلي سريع.", "format": "تقويم تفاعلي", "action": "open", "kind": "link" }
+  ],
+  "files": [
+    { "id": "booklet-pdf", "title": "بوكليت المفعول به: رحلة في الجملة الفعلية", "url": "https://drive.google.com/file/d/1EsUOJMm0OMimSzvhrzWAyblc4Uqv_UUS/view?usp=drivesdk", "description": "بوكليت المفعول به ضمن وحدة نيلنا أمانة، متاح للعرض والتحميل من Google Drive.", "format": "بوكليت PDF", "action": "open", "kind": "link" },
+    { "id": "presentation-pdf", "title": "العرض التقديمي: المفعول به", "url": "https://drive.google.com/file/d/1nRMMzR8hji64PZIefumhh9646XUr7uKC/view?usp=drivesdk", "description": "عرض تقديمي بصيغة PDF لدرس المفعول به - اللغة العربية - الصف الخامس الابتدائي.", "format": "عرض تقديمي PDF", "action": "open", "kind": "link" }
+  ],
+  "homework": []
+}

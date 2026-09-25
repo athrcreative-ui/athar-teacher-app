@@ -1,0 +1,6 @@
+{
+  "app": "athar-teacher-app-template",
+  "deploymentMarker": "lesson-01-presentation-2026-09-09-01",
+  "createdAt": "2026-09-09T01:15:00+03:00",
+  "purpose": "Verify that the published v2 deployment serves the lesson 1 presentation update from GitHub main."
+}
