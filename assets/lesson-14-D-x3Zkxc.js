@@ -1,0 +1,12 @@
+var e=1,t=`lesson-14`,n={text:`1. يجب أن تفهم: جمع المؤنث السالم إذا وقع مفعولًا به يكون منصوبًا.
+2. ركّز على القاعدة: علامة نصب جمع المؤنث السالم الكسرة نيابةً عن الفتحة.
+3. انتبه إلى: لا تحكم على ضبط الكلمة قبل تحديد موقعها في الجملة: هل هي فاعل أم مفعول به؟
+4. مثال مهم: «يقدّم الجنودُ التضحياتِ للوطن»؛ التضحياتِ: مفعول به منصوب وعلامة نصبه الكسرة.
+5. لا تخلط بين: جمع المؤنث السالم إذا كان مفعولًا به، وبين موقعه إذا جاء في وظيفة نحوية أخرى.
+6. تذكّر: المطلوب في الأسئلة غالبًا استخراج المفعول به، وضبط آخره، أو إعرابه.
+
+ركّز عليها قبل الامتحان:
+- جمع المؤنث السالم يُنصب بالكسرة.
+- حدّد موقع الكلمة أولًا.
+- تعرّف المفعول به داخل الجملة الفعلية.
+- تدرب على الضبط والإعراب.`,audio:null},r={text:``,resources:[{id:`summary-infographic`,title:`إعراب المفعول به (جمع المؤنث السالم)`,url:`https://drive.google.com/file/d/14QeRtDbjyUfDa2RNMGq5QUDslBOaRuxd/view?usp=drivesdk`,description:`ملخص الدرس بالإنفوجرافيك.`,format:`إنفوجرافيك`,action:`open`,kind:`image`,alt:`ملخص إنفوجرافيك لدرس إعراب المفعول به جمع المؤنث السالم`}]},i=[{id:`lesson-video`,title:`إعراب المفعول به (جمع المؤنث السالم)`,url:`https://drive.google.com/file/d/1lyhUcIyEzGi6A2pfH_VZD3B2M1aOtL9d/view?usp=drivesdk`,description:`فيديو شرح درس إعراب المفعول به (جمع المؤنث السالم).`,format:`MP4`,action:`open`,kind:`link`}],a=[{id:`gamification-activity`,title:`نشاط تلعيبي: إعراب المفعول به (جمع المؤنث السالم)`,url:`https://share.gemini.google/r86No3Jo1BNd`,description:`نشاط تعليمي تفاعلي مرتبط بالدرس للمراجعة والتطبيق بطريقة ممتعة.`,format:`نشاط تلعيبي تفاعلي`,action:`open`,kind:`link`}],o=[],s=[{id:`lesson-presentation`,title:`إعراب المفعول به (جمع المؤنث السالم)`,url:`https://drive.google.com/file/d/1roqaQ9bNEE_oWyxkoTtCRBcYSgt4G8Ql/view?usp=drivesdk`,description:`العرض التقديمي للدرس.`,format:`عرض تقديمي PDF`,action:`open`,kind:`link`},{id:`lesson-booklet`,title:`إعراب المفعول به (جمع المؤنث السالم)`,url:`https://drive.google.com/file/d/1bXBYwbFC-YSDjhqQ5wDdsko692EMzza4/view?usp=drivesdk`,description:`البوكليت التعليمي الكامل للدرس للمذاكرة والمراجعة والطباعة.`,format:`بوكليت PDF`,action:`open`,kind:`link`}],c=[],l={schemaVersion:1,id:t,explanation:n,summary:r,videos:i,activities:a,assessments:o,files:s,homework:c};export{a as activities,o as assessments,l as default,n as explanation,s as files,c as homework,t as id,e as schemaVersion,r as summary,i as videos};

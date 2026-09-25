@@ -1,0 +1,1 @@
+var e=1,t=`lesson-24`,n={text:``,audio:null},r={text:``,resources:[]},i=[],a=[],o=[],s=[],c=[],l={schemaVersion:1,id:t,explanation:n,summary:r,videos:i,activities:a,assessments:o,files:s,homework:c};export{a as activities,o as assessments,l as default,n as explanation,s as files,c as homework,t as id,e as schemaVersion,r as summary,i as videos};
